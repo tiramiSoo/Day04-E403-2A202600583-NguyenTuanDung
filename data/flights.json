@@ -1,0 +1,123 @@
+[
+  {
+    "flight_id": "VN-DAD-0606-01",
+    "origin": "Ho Chi Minh City",
+    "destination": "Da Nang",
+    "departure_date": "2026-06-06",
+    "airline": "Vietnam Airlines",
+    "departure_time": "07:30",
+    "arrival_time": "08:55",
+    "price_per_person": 1450000,
+    "stops": 0,
+    "tags": ["balanced", "weekend"]
+  },
+  {
+    "flight_id": "VJ-DAD-0606-02",
+    "origin": "Ho Chi Minh City",
+    "destination": "Da Nang",
+    "departure_date": "2026-06-06",
+    "airline": "VietJet Air",
+    "departure_time": "10:10",
+    "arrival_time": "11:35",
+    "price_per_person": 990000,
+    "stops": 0,
+    "tags": ["budget", "weekend"]
+  },
+  {
+    "flight_id": "QH-DAD-0606-03",
+    "origin": "Ho Chi Minh City",
+    "destination": "Da Nang",
+    "departure_date": "2026-06-06",
+    "airline": "Bamboo Airways",
+    "departure_time": "19:00",
+    "arrival_time": "20:25",
+    "price_per_person": 1200000,
+    "stops": 0,
+    "tags": ["night-flight"]
+  },
+  {
+    "flight_id": "VN-DLI-0606-01",
+    "origin": "Ho Chi Minh City",
+    "destination": "Da Lat",
+    "departure_date": "2026-06-06",
+    "airline": "Vietnam Airlines",
+    "departure_time": "06:40",
+    "arrival_time": "07:35",
+    "price_per_person": 1350000,
+    "stops": 0,
+    "tags": ["balanced"]
+  },
+  {
+    "flight_id": "VJ-DLI-0606-02",
+    "origin": "Ho Chi Minh City",
+    "destination": "Da Lat",
+    "departure_date": "2026-06-06",
+    "airline": "VietJet Air",
+    "departure_time": "13:15",
+    "arrival_time": "14:10",
+    "price_per_person": 850000,
+    "stops": 0,
+    "tags": ["budget"]
+  },
+  {
+    "flight_id": "VN-PQC-0606-01",
+    "origin": "Ho Chi Minh City",
+    "destination": "Phu Quoc",
+    "departure_date": "2026-06-06",
+    "airline": "Vietnam Airlines",
+    "departure_time": "08:00",
+    "arrival_time": "09:05",
+    "price_per_person": 1700000,
+    "stops": 0,
+    "tags": ["island"]
+  },
+  {
+    "flight_id": "VJ-PQC-0606-02",
+    "origin": "Ho Chi Minh City",
+    "destination": "Phu Quoc",
+    "departure_date": "2026-06-06",
+    "airline": "VietJet Air",
+    "departure_time": "15:10",
+    "arrival_time": "16:15",
+    "price_per_person": 1350000,
+    "stops": 0,
+    "tags": ["budget", "island"]
+  },
+  {
+    "flight_id": "VN-HAN-0607-01",
+    "origin": "Ho Chi Minh City",
+    "destination": "Hanoi",
+    "departure_date": "2026-06-07",
+    "airline": "Vietnam Airlines",
+    "departure_time": "09:30",
+    "arrival_time": "11:40",
+    "price_per_person": 2100000,
+    "stops": 0,
+    "tags": ["business"]
+  },
+  {
+    "flight_id": "VJ-NHA-0606-01",
+    "origin": "Ho Chi Minh City",
+    "destination": "Nha Trang",
+    "departure_date": "2026-06-06",
+    "airline": "VietJet Air",
+    "departure_time": "11:20",
+    "arrival_time": "12:20",
+    "price_per_person": 780000,
+    "stops": 0,
+    "tags": ["budget", "beach"]
+  },
+  {
+    "flight_id": "VN-NHA-0606-02",
+    "origin": "Ho Chi Minh City",
+    "destination": "Nha Trang",
+    "departure_date": "2026-06-06",
+    "airline": "Vietnam Airlines",
+    "departure_time": "16:00",
+    "arrival_time": "17:00",
+    "price_per_person": 1050000,
+    "stops": 0,
+    "tags": ["balanced", "beach"]
+  }
+]
+

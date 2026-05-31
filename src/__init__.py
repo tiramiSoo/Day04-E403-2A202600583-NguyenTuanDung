@@ -1,0 +1,2 @@
+"""Starter package for students."""
+

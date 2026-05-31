@@ -1,0 +1,102 @@
+[
+  {
+    "hotel_id": "DAD-H01",
+    "city": "Da Nang",
+    "name": "Sea Light Hotel",
+    "star_rating": 4.0,
+    "location_score": 8.9,
+    "price_per_night": 820000,
+    "amenities": ["wifi", "breakfast", "gan bien"],
+    "tags": ["balanced", "family"]
+  },
+  {
+    "hotel_id": "DAD-H02",
+    "city": "Da Nang",
+    "name": "Han River Stay",
+    "star_rating": 3.5,
+    "location_score": 8.3,
+    "price_per_night": 620000,
+    "amenities": ["wifi", "gan trung tam"],
+    "tags": ["budget", "city"]
+  },
+  {
+    "hotel_id": "DAD-H03",
+    "city": "Da Nang",
+    "name": "Sunset Beach Resort",
+    "star_rating": 4.5,
+    "location_score": 9.2,
+    "price_per_night": 1100000,
+    "amenities": ["wifi", "breakfast", "gan bien", "pool"],
+    "tags": ["premium", "beach"]
+  },
+  {
+    "hotel_id": "DLI-H01",
+    "city": "Da Lat",
+    "name": "Pine View Lodge",
+    "star_rating": 4.0,
+    "location_score": 8.8,
+    "price_per_night": 700000,
+    "amenities": ["wifi", "breakfast", "gan trung tam"],
+    "tags": ["balanced"]
+  },
+  {
+    "hotel_id": "DLI-H02",
+    "city": "Da Lat",
+    "name": "Budget Garden Inn",
+    "star_rating": 3.0,
+    "location_score": 7.8,
+    "price_per_night": 430000,
+    "amenities": ["wifi"],
+    "tags": ["budget"]
+  },
+  {
+    "hotel_id": "PQC-H01",
+    "city": "Phu Quoc",
+    "name": "Island Breeze Resort",
+    "star_rating": 4.5,
+    "location_score": 9.0,
+    "price_per_night": 980000,
+    "amenities": ["wifi", "breakfast", "pool", "gan bien"],
+    "tags": ["beach", "balanced"]
+  },
+  {
+    "hotel_id": "PQC-H02",
+    "city": "Phu Quoc",
+    "name": "Harbor Budget Hotel",
+    "star_rating": 3.5,
+    "location_score": 8.0,
+    "price_per_night": 690000,
+    "amenities": ["wifi", "gan trung tam"],
+    "tags": ["budget"]
+  },
+  {
+    "hotel_id": "NHA-H01",
+    "city": "Nha Trang",
+    "name": "Blue Bay Hotel",
+    "star_rating": 4.0,
+    "location_score": 8.6,
+    "price_per_night": 650000,
+    "amenities": ["wifi", "breakfast", "gan bien"],
+    "tags": ["budget", "beach"]
+  },
+  {
+    "hotel_id": "NHA-H02",
+    "city": "Nha Trang",
+    "name": "Central Sun Stay",
+    "star_rating": 3.5,
+    "location_score": 8.1,
+    "price_per_night": 520000,
+    "amenities": ["wifi", "gan trung tam"],
+    "tags": ["budget", "city"]
+  },
+  {
+    "hotel_id": "HAN-H01",
+    "city": "Hanoi",
+    "name": "Old Quarter Boutique",
+    "star_rating": 4.0,
+    "location_score": 9.1,
+    "price_per_night": 890000,
+    "amenities": ["wifi", "breakfast", "gan trung tam"],
+    "tags": ["city", "balanced"]
+  }
+]
