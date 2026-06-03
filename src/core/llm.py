@@ -28,7 +28,7 @@ def normalize_content(raw: Any) -> str:
 
 def build_chat_model(
     *,
-    provider: str = "google",
+    provider: str = "custom",
     model_name: str | None = None,
     temperature: float = 0.0,
 ):
@@ -48,6 +48,16 @@ def build_chat_model(
             base_url=os.getenv("OLLAMA_BASE_URL", "http://localhost:11434"),
             temperature=temperature,
         )
+    if provider == "custom":   #src/core/llm.py line: 51
+        from langchain_openai import ChatOpenAI
+
+        return ChatOpenAI(
+            model=model_name or os.getenv("CUSTOM_LLM_MODEL"),
+            openai_api_key=os.getenv("CUSTOM_LLM_KEY"),
+            openai_api_base=os.getenv("CUSTOM_LLM_URL"),
+            temperature=temperature,
+        ) 
+
     raise ValueError("This lab supports only the `google` and `ollama` providers.")
 
 
